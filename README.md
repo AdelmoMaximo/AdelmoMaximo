@@ -4,7 +4,7 @@
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelmo-do-nascimento-maximo-74b913225/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adelmomaximo/)
 
-![Adelmo GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelmoMaximo&show_icons=true&theme=dracula)
+![Adelmo GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelmoMaximo&show_icons=true&theme=dark)
 
 
 ### Tecnologias mais utilizadas:
